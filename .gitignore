@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+build/
+cmake-build-debug/
+tmp/
+obj/
+
+*.bin
+*.o
+*.dSYM
+.DS_Store
+gdb.txt
+dns_svr.log
+dns_svr
+phase1
